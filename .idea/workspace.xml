@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75609016-24f8-4923-abec-370613eef786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/AboutUS/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/ContactsPage/ContactsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/PortfolioPage/PortfolioPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/MainPage/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/countPage/CountPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/formPage/FormPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/components/user/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/src/pages/AboutPages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/src/pages/AboutPages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/src/pages/AboutPages/AboutPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/src/pages/AboutPages/AboutPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/hw3/src/pages/NewPage/NewPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/hw3/src/pages/NewPage/NewPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/my-app/src/Companents/ContactsPage/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/my-app/src/Companents/ContactsPage/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/AboutPage/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/AboutPage/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/FormPage/FormPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/FormPage/FormPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/mainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/my-app/src/Pages/mainPage/MainPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GfxIxY2yplQ4XimVpnjy5QcS9u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../month2/hw5" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\month4\HW4\hw4\hw4\src\pages\PortfolioPage" />
+      <recent name="C:\Users\Lenovo\Desktop\month4\HW4\hw4\hw4\src\pages\AboutUS" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75609016-24f8-4923-abec-370613eef786" name="Default Changelist" comment="" />
+      <created>1666793363755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666793363755</updated>
+      <workItem from="1666793364990" duration="169000" />
+      <workItem from="1666793572143" duration="1421000" />
+      <workItem from="1666795911965" duration="1436000" />
+      <workItem from="1666803195609" duration="5589000" />
+      <workItem from="1666981218152" duration="919000" />
+      <workItem from="1666982146117" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1666982324369">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1666982324369" />
+  </component>
+</project>
