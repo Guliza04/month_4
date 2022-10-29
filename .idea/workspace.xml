@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75609016-24f8-4923-abec-370613eef786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/AboutUS/AboutUs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/ContactsPage/ContactsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/hw4/src/pages/PortfolioPage/PortfolioPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/MainPage/MainPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/countPage/CountPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson4/src/components/pages/formPage/FormPage.js" afterDir="false" />
@@ -51,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2GfxIxY2yplQ4XimVpnjy5QcS9u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../month2/hw5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -95,6 +92,7 @@
       <workItem from="1666803195609" duration="5589000" />
       <workItem from="1666981218152" duration="919000" />
       <workItem from="1666982146117" duration="179000" />
+      <workItem from="1666985681596" duration="8647000" />
     </task>
     <servers />
   </component>
